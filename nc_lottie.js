@@ -8,7 +8,7 @@ $(document).ready(function() {
         animation.stop();
     });
 
-    // Play animations in the hero/first section immediately
+    
     const firstSectionAnimationIds = ['w-node-a77bcfd4-0ad0-3c1c-212b-12462fa61829-0b1081c7']; // Add IDs of animations in the first section
 
     firstSectionAnimationIds.forEach(animationId => {
